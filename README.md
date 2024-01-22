@@ -1,5 +1,5 @@
 # credit-risk-classification
-Modulle 20 Challenge. 
+
 
 ## Overview of the Analysis
     
@@ -7,15 +7,15 @@ Module 20 was about credit card risk classification. So, using a machine learnin
 
 ## Results
 
-Logistic Regression Model with Original Data: 
-    * The balanced accuracy score has around 96%
-    * In the recall score, there was 1% mistakes for low-risk and 6% mistakes for high-risk
-    * Due to the imbalanced data, there is a higher possibility that that high-risk will be mistaken for low-risk and vice versa. 
+### Logistic Regression Model with Original Data: 
+- The balanced accuracy score has around 96%
+- In the recall score, there was 1% mistakes for low-risk and 6% mistakes for high-risk
+- Due to the imbalanced data, there is a higher possibility that that high-risk will be mistaken for low-risk and vice versa. 
 
-Logistic Regression Model with Oversampled Data:
-    * The balanced accuracy score was around 99% 
-    * In the recall score, both low-risk and high-risk had a mistake of 1% which is definite improvement. 
-    * There is a lower possibility that there would be a mistake between low-risk and high-risk. 
+### Logistic Regression Model with Oversampled Data:
+- The balanced accuracy score was around 99% 
+- In the recall score, both low-risk and high-risk had a mistake of 1% which is definite improvement. 
+- There is a lower possibility that there would be a mistake between low-risk and high-risk. 
 
 ## Summary
 
